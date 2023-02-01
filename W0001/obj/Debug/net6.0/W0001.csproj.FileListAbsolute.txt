@@ -1,0 +1,15 @@
+C:\Users\Evgeniy.Karfidov\Documents\GB\C_LESSON_1\Work\W0001\bin\Debug\net6.0\W0001.exe
+C:\Users\Evgeniy.Karfidov\Documents\GB\C_LESSON_1\Work\W0001\bin\Debug\net6.0\W0001.deps.json
+C:\Users\Evgeniy.Karfidov\Documents\GB\C_LESSON_1\Work\W0001\bin\Debug\net6.0\W0001.runtimeconfig.json
+C:\Users\Evgeniy.Karfidov\Documents\GB\C_LESSON_1\Work\W0001\bin\Debug\net6.0\W0001.dll
+C:\Users\Evgeniy.Karfidov\Documents\GB\C_LESSON_1\Work\W0001\bin\Debug\net6.0\W0001.pdb
+C:\Users\Evgeniy.Karfidov\Documents\GB\C_LESSON_1\Work\W0001\obj\Debug\net6.0\W0001.csproj.AssemblyReference.cache
+C:\Users\Evgeniy.Karfidov\Documents\GB\C_LESSON_1\Work\W0001\obj\Debug\net6.0\W0001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evgeniy.Karfidov\Documents\GB\C_LESSON_1\Work\W0001\obj\Debug\net6.0\W0001.AssemblyInfoInputs.cache
+C:\Users\Evgeniy.Karfidov\Documents\GB\C_LESSON_1\Work\W0001\obj\Debug\net6.0\W0001.AssemblyInfo.cs
+C:\Users\Evgeniy.Karfidov\Documents\GB\C_LESSON_1\Work\W0001\obj\Debug\net6.0\W0001.csproj.CoreCompileInputs.cache
+C:\Users\Evgeniy.Karfidov\Documents\GB\C_LESSON_1\Work\W0001\obj\Debug\net6.0\W0001.dll
+C:\Users\Evgeniy.Karfidov\Documents\GB\C_LESSON_1\Work\W0001\obj\Debug\net6.0\refint\W0001.dll
+C:\Users\Evgeniy.Karfidov\Documents\GB\C_LESSON_1\Work\W0001\obj\Debug\net6.0\W0001.pdb
+C:\Users\Evgeniy.Karfidov\Documents\GB\C_LESSON_1\Work\W0001\obj\Debug\net6.0\W0001.genruntimeconfig.cache
+C:\Users\Evgeniy.Karfidov\Documents\GB\C_LESSON_1\Work\W0001\obj\Debug\net6.0\ref\W0001.dll
